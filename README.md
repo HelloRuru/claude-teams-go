@@ -22,10 +22,11 @@ You already pay for Claude Code. You already know how to write markdown. Why sho
 
 - Official Claude Code Agent Teams is experimental and limited
 - Most solutions demand you learn a new framework before you get any value
+- Agent worktree lets each agent work in isolation — but it only handles *where* they work, not *who does what, how they collaborate, or who checks the result*. You get separate outputs, not one integrated deliverable
 
 **The fix:**
 
-Claude Teams Go gives you structured multi-agent collaboration using only **Hooks + Markdown**. No runtime. No package manager. No new language to learn. Define a blueprint, run `/teams`, and your agents collaborate through a clear pipeline — with built-in quality gates.
+One window. One command. One deliverable. Claude Teams Go gives you structured multi-agent collaboration using only **Hooks + Markdown** — a conductor assigns tasks, a judge runs your checklist, a polisher refines with you until you're satisfied. No runtime. No package manager. No new language to learn. Define a blueprint, run `/teams`, and your team collaborates through a clear pipeline to deliver a finished result.
 
 ---
 
